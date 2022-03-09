@@ -8,5 +8,5 @@
 
 ### Here is a Data Model for the SQL database we created:
 
-### Here is an visualiztion of how the data correlates:
+![Data Model](https://github.com/N-J-Miller/final_project/blob/4b48fb558713fab19ddcb3e2684c2fe96fd64a69/Data%20Model.jpeg)
 
